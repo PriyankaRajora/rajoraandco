@@ -5,6 +5,19 @@ This file is automatically updated when a pull request is merged into `main`.
 
 ---
 
+## [2026-03-27] — PR #2: docs: add CHANGELOG.md with auto-update workflow on PR merge
+
+**Branch:** `claude/fix-deployment-issue-7p2qH`  
+**Merged by:** PriyankaRajora
+
+### Description
+- CHANGELOG.md documents all changes to rajoraandco.com starting from initial setup and deployment fix
+- update-changelog.yml workflow auto-prepends a new entry to CHANGELOG.md whenever a PR is merged into main, capturing PR number, title, description, author, branch, and merge date
+
+https://claude.ai/code/session_01LkTtLnbgqEsZwXpBhoVaJc
+
+---
+
 ## [2026-03-27] — Deployment Fix
 
 **Branch:** `claude/fix-deployment-issue-7p2qH`
